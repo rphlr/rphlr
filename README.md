@@ -4,7 +4,14 @@
 - 💞️ I’m looking to collaborate on 42 school projects 
 - 📫 You can reach me there : rrouille@student.42lausanne.ch
 
-<!---
-rphlr/rphlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rphlr)](https://github.com/anuraghazra/github-readme-stats) 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rphlr&show_icons=true&locale=en&layout=compact" alt="rphlr" /></p> 
+
+ <h3 align="left">Connect with me:</h3> 
+
+ <p align="left">
+
+ <a href="https://www.linkedin.com/in/rphlr" target="blank"><img align="center" src="https://github.com/Toolback/Config/blob/main/Images/linked.svg" alt="" height="30" width="40" /></a> 
+
+ </p>
