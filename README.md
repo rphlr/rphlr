@@ -10,8 +10,8 @@
 
  <h3 align="left">Connect with me:</h3> 
 
- <p align="left">
+ <p align="center">
 
- <a href="https://www.linkedin.com/in/rphlr" target="blank"><img align="center" src="https://github.com/Toolback/Config/blob/main/Images/linked.svg" alt="" height="30" width="40" /></a> 
+ <a href="https://www.linkedin.com/in/rphlr" target="blank"><img align="center" src="logos/linkedin.png" alt="" height="30" width="40" /></a> 
 
  </p>
