@@ -6,7 +6,7 @@
 
 ## **😊 About me**
 
-- ❓ I’m **[@rphlr](https://github.com/rphlr)**
+- ❓ I’m **[@rphlr](https://github.com/rphlr)** !
 - 👀 I’m interested in astronomy and astrophysic ! 🪐🔭
 - 🌱 I’m currently learning C, C# and python.
 - 💞️ I’m looking to collaborate on [42 school projects](https://42.fr).
