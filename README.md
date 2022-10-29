@@ -34,7 +34,7 @@
 
 <div align="center" style="text-align:center">
   <a href="mailto:rrouille@student.42lausanne.ch">
-	<img align="center" src="logos/mail.png" alt="mail logo" height="30" width="30" />
+	<img align="center" src="logos/email.png" alt="mail logo" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/rphlr" target="blank">
 	<img align="center" src="logos/linkedin.png" alt="linkedin logo" height="30" width="30" />
@@ -45,4 +45,6 @@
 
 <br>
 
-_Made with ❤️ by **[@rphlr](https://github.com/rphlr)**_
+_<a href="https://www.flaticon.com/fr/chercher?author_id=168" title="icons">Icons created by **Pixel perfect** - Flaticon</a>_
+<br>
+_Repository made with ❤️ by **[@rphlr](https://github.com/rphlr)**_
