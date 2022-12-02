@@ -39,7 +39,7 @@
 	<a href="https://github.com/rphlr/">
 		<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
 			alt="Raphael's Github stats" height="150">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Raphael's Most Used Languages"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Raphael's Most Used Languages" height="150">
 	</a>
 	<a href="https://wakatime.com/@rphlr/">
 		<img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rphlr&hide_progress=false&layout=compact&custom_title=Raphael's%20last%20last%20year%20coding%20stats&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
