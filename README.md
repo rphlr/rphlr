@@ -29,6 +29,10 @@
 
 <br><br>
 
+<div align="center" style="text-align:center">
+	<img src="imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## **<img src="imgs/stats.gif" alt="Stats" width ="35"> Stats**
 
 <div align="center" style="text-align:center">
@@ -42,7 +46,11 @@
 			alt="Raphael's last year coding stats" height="150">
 	</a>
 </div>
-	
+
+<div align="center" style="text-align:center">
+	<img src="imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## **<img src="imgs/handwaving.gif" alt="Hand waving" width ="30"> How to reach me**
 
 <div align="center" style="text-align:center">
