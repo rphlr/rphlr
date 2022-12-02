@@ -7,7 +7,7 @@
 - ❓ Computer scientist 👉🏼 programming oriented.
 - ✏️ Former industrial draftsman with CFC and 2 years experience.
 - 👀 Astronomy | Astrophysic 🪐🔭
-- 🥰 Fireman | President of Actions Suisse | Member of the board of directors of Infogalactic AG - Castalia SA - Château Castalia SA - Éditions Alpines SA
+- 🥰 Fireman | President of [Actions Suisse](https://actions-suisse.ch) | Member of the board of directors of [Infogalactic AG](https://infogalactic.com) - [Castalia SA](https://www.moneyhouse.ch/fr/company/castalia-ag-12587665931) - [Château Castalia SA](https://chateaucastalia.com/) - [Éditions Alpines SA](https://www.editionsalpines.com/)
 - 💞️ I’m looking to collaborate on [42 school projects](https://42.fr).
 
 <div align="center" style="text-align:center">
