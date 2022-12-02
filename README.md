@@ -18,8 +18,6 @@
 
 <picture> <img align="right" src="imgs/coding.gif" width = 250px></picture>
 
-<br><br>
-
 - 💻 SCCM mastery | Computer server setup | Computer programming
 - 🌱 Currently learning HTML - CSS - PHP - C - C++ - C# - React - Crea - Javascript - Python
 - 🌐 Web design
