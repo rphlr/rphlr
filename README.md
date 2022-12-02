@@ -55,10 +55,13 @@
 
 <div align="center" style="text-align:center">
   <a href="mailto:rrouille@student.42lausanne.ch">
-	<img align="center" src="imgs/email.png" alt="mail logo" height="30" width="30" />
+	<img align="center" src="imgs/email.png" alt="Mail logo" height="30" width="30">
+  </a>
+  <a href="https://SuisseLibre.t.me" target="blank">
+	<img align="center" src="imgs/telegram.png" alt="Telegram logo" height="30" width="30">
   </a>
   <a href="https://www.linkedin.com/in/rphlr" target="blank">
-	<img align="center" src="imgs/linkedin.png" alt="linkedin logo" height="30" width="30" />
+	<img align="center" src="imgs/linkedin.png" alt="Linkedin logo" height="30" width="30">
   </a>
 </div>
 
