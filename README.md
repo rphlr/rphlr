@@ -38,12 +38,12 @@
 <div align="center" style="text-align:center">
 	<a href="https://github.com/rphlr/">
 		<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-			alt="Raphael's Github stats" width ="50%">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Raphael's Most Used Languages" height="90" width ="50%">
+			alt="Raphael's Github stats" width ="59%">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rphlr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Raphael's Most Used Languages" width ="41%">
 	</a>
 	<a href="https://wakatime.com/@rphlr/">
 		<img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rphlr&hide_progress=false&layout=compact&custom_title=Raphael's%20last%20last%20year%20coding%20stats&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-			alt="Raphael's last year coding stats" width ="50%">
+			alt="Raphael's last year coding stats" height ="170">
 	</a>
 </div>
 
