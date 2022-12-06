@@ -2,9 +2,17 @@
 
 # Hi there, I'm **[Raphael](https://rphlr.ch)** ! <img src="imgs/handwaving.gif" alt="Hand waving" width ="35">
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=rphlr&label=Profile%20views&color=c061cb&style=flat-square" alt="mirsella">
-</p>
+<div align="center" style="text-align:center">
+	<div align="center" style="text-align:center"><img src="https://komarev.com/ghpvc/?username=rphlr&label=Profile%20views&color=c061cb&style=flat-square" alt="rphlr" />
+</div>
+
+<div align="center" style="text-align:center">
+	<img src="https://github-profile-trophy.vercel.app/?username=rphlr" alt="rphlr" />
+</div>
+
+<div align="center" style="text-align:center">
+	<img src="imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## **<img src="imgs/infos.gif" alt="Infos" width ="30"> About me**
 
