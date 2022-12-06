@@ -2,6 +2,10 @@
 
 # Hi there, I'm **[Raphael](https://rphlr.ch)** ! <img src="imgs/handwaving.gif" alt="Hand waving" width ="35">
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=rphlr&label=Profile%20views&color=c061cb&style=flat-square" alt="mirsella">
+</p>
+
 ## **<img src="imgs/infos.gif" alt="Infos" width ="30"> About me**
 
 - ❓ Computer scientist 👉🏼 programming oriented.
