@@ -33,7 +33,7 @@
 <picture> <img align="right" src="imgs/coding.gif" width = 250px></picture>
 
 - 💻 SCCM mastery | Computer server setup | Computer programming
-- 🌱 Currently learning HTML - CSS - PHP - C - C++ - C# - React - Crea - Javascript - Python
+- 🌱 Currently learning HTML - CSS - PHP - C - C++ - C# - React - Node.JS - Javascript - Python
 - 🌐 Web design
 - 📹 Photo - Video editing
 - 🔧 Repair of phones - tablets - computers
