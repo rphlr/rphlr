@@ -3,11 +3,17 @@
 # Hi there, I'm **[Raphael](https://rphlr.ch)** ! <img src="imgs/handwaving.gif" alt="Hand waving" width ="35">
 
 <div align="center" style="text-align:center">
-	<div align="center" style="text-align:center"><img src="https://komarev.com/ghpvc/?username=rphlr&label=Profile%20views&color=c061cb&style=flat-square" alt="rphlr" />
+
+[![rrouille's 42 stats](https://badge42.vercel.app/api/v2/cl7j3472b00110gl3desj4jw2/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
+
 </div>
 
 <div align="center" style="text-align:center">
-	<img src="https://github-profile-trophy.vercel.app/?username=rphlr" alt="rphlr" />
+	<div align="center" style="text-align:center"><img src="https://komarev.com/ghpvc/?username=rphlr&label=Profile%20views&color=c061cb&style=flat-square" alt="rphlr" />
+</div>
+
+<div align="center" style="text-align:center">
+	<img src="https://github-profile-trophy.vercel.app/?username=rphlr" alt="rphlr"/>
 </div>
 
 <div align="center" style="text-align:center">
