@@ -4,7 +4,7 @@
 
 <div align="center" style="text-align:center">
 
-[![rrouille's 42 stats](https://badge42.vercel.app/api/v2/cl7j3472b00110gl3desj4jw2/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/rrouille)
+[![rrouille's 42 stats](https://badge42.vercel.app/api/v2/cl7j3472b00110gl3desj4jw2/stats?cursusId=21&coalitionId=193)](https://profile.intra.42.fr/users/rrouille)]
 
 </div>
 
