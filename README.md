@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=rphlr&label=Lunar+Landings&color=green" alt="Lunar Landings"/>
 </p>
 
-![Duck on the Moon Coding](https://raw.githubusercontent.com/rphlr/rphlr/main/Duckstronaut_Coding_Odyssey.gif)
+![Duck on the Moon Coding](https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/Duckstronaut_Coding_Odyssey.gif)
 
 Quacking in code from the moon! As the galaxy's first duck developer, I'm debugging the stars one quack at a time. 🚀🦆💻 Whether you're here to explore celestial code or share a space-bean of knowledge, you're in for an astronomical treat! 🌠✨
 
