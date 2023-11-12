@@ -8,6 +8,10 @@
 
 Quacking in code from the moon! As the galaxy's first duck developer, I'm debugging the stars one quack at a time. 🚀🦆💻 Whether you're here to explore celestial code or share a space-bean of knowledge, you're in for an astronomical treat! 🌠✨
 
+Currently, I am undergoing training at 42 School in Lausanne. 📚👨‍💻🚀
+
+[![rrouille's 42 stats](https://badge.mediaplus.ma/darkblue/Rrouille?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ---
 
 ### 🌌 Stellar Repositories 🚀📚
