@@ -202,6 +202,7 @@ Coming soon...
 <details>
 <summary>👾 Fun and Miscellaneous</summary>
 
+- [TocMastersOnline](https://github.com/rphlr/TocMastersOnline) : "TocMastersOnline" reinvents the classic Toc board game into an online multiplayer experience that blends strategy and luck, perfect for both aficionados and first-timers. still in production. 🎲
 - [django payment gateway](https://github.com/rphlr/django-payment-gateway) : Django module for integrating payment gateways in web apps. Not yet completed. 💳🌐
 
 </details>
