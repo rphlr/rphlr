@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    paths-ignore:
-      - 'README.md'
-      - 'index.php'
 
 permissions:
   contents: read
