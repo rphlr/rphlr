@@ -229,6 +229,8 @@ Coming soon...
 
 ---
 
+<!-- Note to self: The password of 42Evals is your favorite 42 project but replace every 'u' with 'V' and every 'c' with 'C', then add the year 2023 because that was a good year -->
+
 ### 📊 Coding Constellations
 
 <div align="center">
