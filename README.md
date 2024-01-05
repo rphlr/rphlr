@@ -10,7 +10,7 @@ Quacking in code from the moon! As the galaxy's first duck developer, I'm debugg
 
 Currently, I am undergoing training at 42 School in Lausanne. 📚👨‍💻🚀
 
-[![rrouille's 42 stats](https://badge.mediaplus.ma/darkblue/Rrouille?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![rrouille's 42 stats](https://badge.mediaplus.ma/darkblue/Rrouille?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/rrouille)
 
 ---
 
@@ -20,7 +20,7 @@ Currently, I am undergoing training at 42 School in Lausanne. 📚👨‍💻�
 - **[42-Subjects](https://github.com/rphlr/42-Subjects):** Your launchpad to the 42 School curriculum with project PDFs in English and French. 📚🌐🚀
 - **[42-Evals](https://github.com/rphlr/42-Evals):** A telescope to peer into the evaluation process with official 42 School evaluation sheets. 🔭✅📄
 
-Check out the live version of our 42-Evals repository to navigate the stars of peer evaluation with ease: 🌟👨‍🚀 [42-Evals Web Page](https://rphlr.github.io/42-Evals)
+Check out the live version of my 42-Evals repository to navigate the stars of peer evaluation with ease: 🌟👨‍🚀 [42-Evals Web Page](https://42Evals.com)
 
 **Explore More Repositories:**
 
