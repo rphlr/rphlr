@@ -257,5 +257,3 @@ Coming soon...
 ---
 
 🦆 _Repository made with ❤️ by [Raphael](https://github.com/rphlr). Quack on and keep coding!_
-
-![](https://hit.yhype.me/github/profile?user_id=81936759)
